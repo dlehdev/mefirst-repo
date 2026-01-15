@@ -8,3 +8,8 @@ I and deleting one line.
  and I am computer science student and 
  I am learning a how to use git and github
  and also full stack devolopment
+
+# practice session 
+
+I back again to learn git and github 
+for improve my skills and learning new command
